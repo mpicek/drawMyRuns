@@ -12,3 +12,7 @@ Compile the app with `mvn compile` and to run it, run `mvn exec:java -Dexec.main
 You will have to authorize with your Strava account.
 
 Follow the instructions in the program :)
+
+![img1](01.png)
+![img2](02.png)
+![img3](03.png)
