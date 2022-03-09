@@ -1,4 +1,4 @@
-# DrawMyRun
+# DrawMyRuns
 
 Prerequisites: `java17`, `maven`.
 Warning - maven is annoying. Download it, unzip it and **add the
